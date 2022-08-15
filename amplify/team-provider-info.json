@@ -10,6 +10,17 @@
       "StackName": "amplify-nextjsamplifysample-dev-150327",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:881510251864:stack/amplify-nextjsamplifysample-dev-150327/a7820f90-1acd-11ed-bc04-0a55129c2e89",
       "AmplifyAppId": "d3190bsqzovr37"
+    },
+    "categories": {
+      "auth": {
+        "nextjsamplifysample24a7f8ba24a7f8ba": {}
+      },
+      "function": {
+        "AdminQueriesaceeb452": {
+          "deploymentBucketName": "amplify-nextjsamplifysample-dev-150327-deployment",
+          "s3Key": "amplify-builds/AdminQueriesaceeb452-69646252496e6436354e-build.zip"
+        }
+      }
     }
   }
 }
